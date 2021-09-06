@@ -105,12 +105,12 @@ const Cart = ({ isCartOpen, setIsCartOpen }) => {
             type="text"
             placeholder="Add promocode"
           />
-          <button className="ml-3 flex items-center px-3 py-2 bg-indigo-600 text-white text-sm uppercase font-medium rounded hover:bg-green-500 focus:outline-none focus:bg-green-500">
+          <button className="ml-3 flex items-center px-3 py-2 bg-indigo-600 text-white text-sm uppercase font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500">
             <span>Apply</span>
           </button>
         </form>
       </div>
-      <a className="flex items-center justify-center mt-4 px-3 py-2 bg-indigo-600 text-white text-sm uppercase font-medium rounded hover:bg-green-500 focus:outline-none focus:bg-green-500 cursor-pointer">
+      <a className="flex items-center justify-center mt-4 px-3 py-2 bg-indigo-600 text-white text-sm uppercase font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500 cursor-pointer">
         <span>Buy some stuff!</span>
         <ArrowNarrowRightIcon className="w-5 h-5" />
       </a>

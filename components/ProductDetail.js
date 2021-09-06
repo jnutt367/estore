@@ -23,17 +23,17 @@ const ProductDetail = ({ product }) => {
             Count:
           </label>
           <div className="flex items-center mt-1">
-            <button className="text-white focus:outline-none focus:text-gray-600">
+            <button className="text-white focus:outline-none focus:text-indigo-600">
               <PlusCircleIcon className="w-5 h-5" />
             </button>
             <span className="text-white text-lg mx-2">1</span>
-            <button className="text-white focus:outline-none focus:text-gray-600">
+            <button className="text-white focus:outline-none focus:text-indigo-600">
               <MinusCircleIcon className="w-5 h-5" />
             </button>
           </div>
         </div>
         <div className="flex items-center mt-6">
-          <button className="px-8 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-500 focus:outline-none focus:bg-green-500">
+          <button className="px-8 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500">
             Add To Cart
           </button>
         </div>
