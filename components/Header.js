@@ -17,7 +17,7 @@ const Header = () => {
         <div className="container mx-auto px-6 py-3">
           <div className="flex items-center justify-between">
             <Link href="/">
-              <div className="w-full text-white text-2xl font-semibold cursor-pointer">
+              <div className="font-serif w-full text-white text-2xl font-semibold cursor-pointer">
                 TechNutt
               </div>
             </Link>
