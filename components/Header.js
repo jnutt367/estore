@@ -18,7 +18,7 @@ const Header = () => {
           <div className="flex items-center justify-between">
             <Link href="/">
               <div className="w-full text-white text-2xl font-semibold cursor-pointer">
-                JNutt's Tech Shoppe
+                TechNutt
               </div>
             </Link>
             <div className="flex items-center justify-end w-full">
