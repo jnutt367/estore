@@ -15,7 +15,7 @@ const ProductDetail = ({ product }) => {
         />
       </div>
       <div className="w-full max-w-lg mx-auto mt-5 md:ml-8 md:mt-0 md:w-1/2">
-        <h3 className="text-gray-700 uppercase text-lg">{product.name}</h3>
+        <h3 className="text-white uppercase text-lg">{product.name}</h3>
         <span className="text-white mt-3">${product.price}</span>
         <hr className="my-3" />
         <div className="mt-2">
@@ -33,7 +33,7 @@ const ProductDetail = ({ product }) => {
           </div>
         </div>
         <div className="flex items-center mt-6">
-          <button className="px-8 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500">
+          <button className="px-8 py-2 bg-indigo-600 text-white text-sm font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500">
             Add To Cart
           </button>
         </div>
