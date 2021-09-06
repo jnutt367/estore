@@ -1,4 +1,4 @@
-# In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB.
+## In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB.
 ## This Project was created with create-next-app
 # Next.js + Tailwind CSS Example
 
