@@ -15,7 +15,7 @@ const Hero = () => {
       />
       <div className="bg-gray-900 bg-opacity-50 flex items-center h-full absolute w-full z-10">
         <div className="px-10 max-w-xl">
-          <h2 className="font-serif text-2xl text-white font-semibold">TechNutt</h2>
+          <h2 className="font-serif text-2xl text-white font-semibold">Tech Nutt (An E-commerce Store)</h2>
           <p className="mt-2 text-white">
            Find <i className="font-serif text-indigo-200">your favorite Technology's</i> Gear here! Data Synched with Realm sync.
           </p>
