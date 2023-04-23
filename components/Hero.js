@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className="h-96 rounded-md overflow-hidden bg-cover bg-center relative">
       <Image
-        src="/images/mongodb.png"
+        src="/images/Praying.png"
         alt="Hero Image"
         layout="fill"
         objectFit="cover"
